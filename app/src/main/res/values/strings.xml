@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="toggleBtn_on">Place Mine</string>
+    <string name="toggleBtn_off">Place Flag</string>
+    <string name="main_message">Minesweeper</string>
+    <string name="wrong_placement_text">You lost the game. There was no mine there.</string>
+    <string name="game_won_text">You win! You found all the mines!</string>
+    <string name="hit_mine_text">You lost the game. You hit a mine.</string>
+    <string name="flag_field_text">F</string>
+    <string name="reset_btn_text">Reset Game</string>
+</resources>
